@@ -11,6 +11,7 @@
   inputs.src-nmark-master.ref   = "refs/heads/master";
   inputs.src-nmark-master.owner = "kyoheiu";
   inputs.src-nmark-master.repo  = "nmark";
+  inputs.src-nmark-master.dir   = "";
   inputs.src-nmark-master.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";
